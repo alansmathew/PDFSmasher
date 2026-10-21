@@ -11,14 +11,14 @@ No subscriptions. No paywalls. No uploads. **Your files never leave your Mac.**
 
 <br>
 
-<a href="https://github.com/YOUR_USERNAME/PDFSmasher/releases/latest">
+<a href="https://github.com/alansmathew/PDFSmasher/releases/latest">
   <img src="https://img.shields.io/badge/Download%20for%20macOS-FF6A3D?style=for-the-badge&logo=apple&logoColor=white" alt="Download for macOS" height="44">
 </a>
 
 <br><br>
 
-[![Latest release](https://img.shields.io/github/v/release/YOUR_USERNAME/PDFSmasher?style=flat-square&color=F2513F&label=release)](https://github.com/YOUR_USERNAME/PDFSmasher/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/YOUR_USERNAME/PDFSmasher/total?style=flat-square&color=D81F63)](https://github.com/YOUR_USERNAME/PDFSmasher/releases)
+[![Latest release](https://img.shields.io/github/v/release/alansmathew/PDFSmasher?style=flat-square&color=F2513F&label=release)](https://github.com/alansmathew/PDFSmasher/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/alansmathew/PDFSmasher/total?style=flat-square&color=D81F63)](https://github.com/alansmathew/PDFSmasher/releases)
 ![macOS 14+](https://img.shields.io/badge/macOS-14%2B-2B1830?style=flat-square&logo=apple)
 ![Universal](https://img.shields.io/badge/Apple%20silicon%20%2B%20Intel-universal-2B1830?style=flat-square)
 [![License: MIT](https://img.shields.io/badge/license-MIT-2B1830?style=flat-square)](LICENSE)
@@ -118,7 +118,7 @@ Need something specific? **Create your own profile** with exact resolution, qual
 
 ## 📥 Download & install
 
-1. Download **`PDF-Smasher-x.y.z.dmg`** from the [**latest release**](https://github.com/YOUR_USERNAME/PDFSmasher/releases/latest).
+1. Download **`PDF-Smasher-x.y.z.dmg`** from the [**latest release**](https://github.com/alansmathew/PDFSmasher/releases/latest).
 2. Open the DMG and drag **PDF Smasher** into your **Applications** folder.
 3. Launch it and drop in a PDF. 🎉
 
@@ -185,7 +185,7 @@ Not yet. Files that need a password to open are marked as protected and left unt
 
 ```bash
 brew install cmake                       # needed once, to build qpdf
-git clone https://github.com/YOUR_USERNAME/PDFSmasher.git
+git clone https://github.com/alansmathew/PDFSmasher.git
 cd PDFSmasher
 Scripts/build-app.sh                     # → dist/PDF Smasher.app + dist/PDF-Smasher-1.0.0.dmg
 ```
@@ -224,7 +224,7 @@ Every icon and illustration is drawn in code by `Scripts/generate-assets.swift`,
 
 Bug reports, feature ideas and pull requests are very welcome.
 
-- 🐛 Found a bug? [Open an issue](https://github.com/YOUR_USERNAME/PDFSmasher/issues/new) and, if you can, attach a sample PDF.
+- 🐛 Found a bug? [Open an issue](https://github.com/alansmathew/PDFSmasher/issues/new) and, if you can, attach a sample PDF.
 - 💡 Have an idea? Start a discussion or open an issue.
 - ⭐ Like the app? **Star the repo** to help others discover it!
 
@@ -246,6 +246,6 @@ PDF Smasher is an independent project and is not affiliated with any other PDF s
 
 **Made with ❤️ for the Mac.**
 
-<a href="https://github.com/YOUR_USERNAME/PDFSmasher/releases/latest"><b>Download PDF Smasher →</b></a>
+<a href="https://github.com/alansmathew/PDFSmasher/releases/latest"><b>Download PDF Smasher →</b></a>
 
 </div>
